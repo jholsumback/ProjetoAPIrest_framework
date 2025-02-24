@@ -11,5 +11,5 @@
 - Para executar o projeto:
 - Baixar todos os arquivos dentro de uma pasta em seu PC
 - Pode abrir pelo Git ou WSL, eu usei WSL dentro do Git
-- Ativar a pasta pelo comando: source 1venv/bin/activate
+- Ativar a pasta pelo comando: source venv/bin/activate
 - E executar o projeto pelo comando: python3 manage.py runserver
